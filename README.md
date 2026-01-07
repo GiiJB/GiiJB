@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou a Giovanna!
 
-<!--
-**GiiJB/GiiJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Futura Desenvolvedora`**
 
-Here are some ideas to get you started:
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Estou constantemente procurando novos aprendizados e aqui compartilho alguns dos projetos que desenvolvo nessa trajetória.
+Fique à vontade para explorar! 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="" height="200px" src="./src/menina.gif">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-jb/)
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
