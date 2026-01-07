@@ -3,6 +3,7 @@
 **`Futura Desenvolvedora`**
 
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Estou constantemente procurando novos aprendizados e aqui compartilho alguns dos projetos que desenvolvo nessa trajetória.
+
 Fique à vontade para explorar! 🔍
 
 <img align="right" alt="" height="200px" src="./src/menina.gif">
