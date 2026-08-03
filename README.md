@@ -2,71 +2,59 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac.
 
-💻 Atualmente atuo como Auxiliar Administrativo TIC, participando de atividades relacionadas a sistemas, análise de processos, documentação técnica e melhoria contínua de soluções tecnológicas aplicadas ao negócio.
+💻 Atualmente atuo como Auxiliar Administrativo TIC, trabalhando com tecnologia aplicada a processos, análise de sistemas e melhoria contínua.
 
-Minha jornada na tecnologia começou através da formação técnica em Internet das Coisas (IoT), onde desenvolvi uma base em programação, automação, redes e dispositivos conectados. Atualmente, venho aprofundando meus conhecimentos em desenvolvimento de software e análise de sistemas.
-
----
-
-## 🚀 Objetivo profissional
-
-Busco desenvolver minha carreira em Engenharia de Software, criando soluções eficientes, organizadas e alinhadas às necessidades dos usuários e das organizações.
-
-Tenho interesse também em áreas relacionadas à segurança da informação e confiabilidade de sistemas.
+🚀 Minha jornada começou com uma formação técnica em Internet das Coisas (IoT) e atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, principalmente com Java e Programação Orientada a Objetos.
 
 ---
 
 ## 🛠️ Tecnologias e conhecimentos
 
-### Linguagens
-- Java
-- HTML
-- CSS
+<div align="center">
 
-### Desenvolvimento de Software
-- Programação Orientada a Objetos (POO)
-- Algoritmos
-- UML
-- Análise de Sistemas
-- Documentação Técnica
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 
-### Banco de Dados
-- MySQL
-- Modelagem de Banco de Dados
-
-### Ferramentas
-- Git
-- GitHub
-
-### Outros conhecimentos
-- Inteligência Artificial aplicada a processos
-- Automação
-- Análise de Processos
-- Internet das Coisas (IoT)
-- Proteção de Dados
+</div>
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Conhecimentos
 
-- Desenvolvimento de aplicações em Java
-- Boas práticas de programação
-- Banco de dados
-- Arquitetura de software
-- Testes de software
+- Java
+- Programação Orientada a Objetos
+- Algoritmos
+- UML
+- Análise de Sistemas
+- MySQL
+- Modelagem de Banco de Dados
+- Git e GitHub
+- Inteligência Artificial aplicada a processos
+- Automação
+- Internet das Coisas
 
 ---
 
 ## 📌 Projetos em destaque
 
-### Sistema Bancário em Java
-Aplicação desenvolvida para praticar Programação Orientada a Objetos, utilizando conceitos como classes, objetos, construtores e encapsulamento.
+🔹 **Sistema Bancário em Java**  
+Aplicação para prática de Programação Orientada a Objetos utilizando classes, objetos, construtores e encapsulamento.
 
-### Jogo RPG em Java
-Projeto acadêmico desenvolvido para aplicar conceitos como herança, polimorfismo e organização de classes.
+🔹 **Jogo RPG em Java**  
+Projeto acadêmico desenvolvido para aplicar conceitos de herança, polimorfismo e organização de classes.
 
-### Portfólio Pessoal
-Projeto desenvolvido para praticar desenvolvimento web utilizando HTML e CSS.
+🔹 **Portfólio Pessoal**  
+Projeto para prática de desenvolvimento web com HTML e CSS.
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver minha carreira em Engenharia de Software, criando soluções eficientes e evoluindo continuamente como desenvolvedora.
 
 ---
 
